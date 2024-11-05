@@ -1,0 +1,60 @@
+Appointment Details
+1.	Appointment Availability:
+Consultation: Mondays, Wednesdays, Fridays - 9:00 AM to 12:00 PM.
+Routine Check-Up: Tuesdays and Thursdays - 2:00 PM to 5:00 PM.
+Emergency Visit: Daily availability with open slots between 8:00 AM to 9:00 AM, 1:00 PM to 2:00 PM, and 5:00 PM to 6:00 PM.
+2.	Appointment Types:
+Initial Consultation: For new patients seeking a first-time examination.
+Follow-Up: For patients needing ongoing check-ups after a recent procedure.
+Teeth Whitening Trial: A 30-minute trial session for in-office teeth whitening services.
+3.	Policies for Rescheduling and Cancellations:
+Rescheduling Policy: Patients may reschedule appointments up to 24 hours in advance without any penalty.
+Cancellation Policy: Cancellations within 24 hours of the appointment may incur a 50% service fee unless it's an emergency.
+No-Show Policy: Patients who do not show up without notice may be charged the full consultation fee.
+FAQ and Procedure Information
+1.	Common Patient Questions:
+Q: "How often should I come in for a check-up?"
+A: "We recommend coming in every six months for a routine check-up to maintain good oral health."
+Q: "What should I do in case of a dental emergency?"
+A: "If you experience pain, swelling, or bleeding, please contact our clinic immediately or come in for an emergency appointment."
+Q: "How long does teeth whitening take?"
+A: "In-office teeth whitening typically takes about 1-1.5 hours, depending on the level of whitening desired."
+2.	Standard Procedures and Instructions:
+Teeth Cleaning: A routine cleaning takes about 45 minutes and includes plaque removal, polishing, and flossing.
+Instructions: Avoid eating or drinking for 30 minutes after the cleaning for best results.
+Root Canal Treatment: Typically a 1-2 hour procedure that removes infected tissue within a tooth.
+Instructions: You may experience soreness afterward; avoid chewing with the affected tooth for a few days.
+Teeth Whitening: Uses a peroxide-based gel applied under a UV light to whiten teeth.
+Instructions: Avoid staining foods and beverages (like coffee or wine) for 24 hours post-treatment.
+3.	Clinic Hours, Location, and Contact Information:
+Clinic Hours: Monday to Friday - 8:00 AM to 6:00 PM; Saturday - 8:00 AM to 2:00 PM; Closed on Sundays.
+Location: 123 Dental Way, Suite 456, Medical District, Springfield.
+Contact: Phone: (123) 456-7890; Email: info@springfielddental.com
+Initial Trial Screening
+1.	Eligibility Criteria:
+Age Requirement: Patients must be at least 18 years old for teeth whitening or dental implants.
+Medical History: No current infections or bleeding disorders; patients with a history of severe allergies need medical clearance.
+Dental Health Status: Patients must not have untreated cavities for cosmetic procedures.
+2.	Screening Responses and Decision Criteria:
+Example Screening Question: "Have you had a dental check-up in the past six months?"
+Typical Response: Yes or No
+Decision: Patients who haven't had a recent check-up may be advised to schedule one first.
+Example Screening Question: "Do you have any allergies to anesthesia?"
+Typical Response: No
+Decision: Patients without anesthesia allergies are cleared for most dental procedures.
+Escalation Protocols
+1.	Specialist Contacts and Expertise:
+Dr. Alice Thompson: Root Canal Specialist - Handles all root canal treatments and related inquiries.
+Dr. John Ellis: Cosmetic Dentistry Specialist - Manages teeth whitening, veneers, and other aesthetic procedures.
+Dr. Emily Wong: Oral Surgeon - Available for extractions, dental implants, and other surgical treatments.
+2.	Escalation Criteria:
+Scenario 1: Patient inquires about potential risks and aftercare for dental implants.
+Escalation Protocol: Redirect to Dr. Wong, the Oral Surgeon, for detailed procedural information.
+Scenario 2: Patient reports ongoing pain after a recent root canal.
+Escalation Protocol: Schedule an immediate follow-up with Dr. Thompson, the Root Canal Specialist.
+Technology and Integration Requirements
+1.	Preferred Voice and Chatbot Platforms:
+Voice Platform: Google Dialogflow for voice agent integration.
+Chatbot Platform: Facebook Messenger and WhatsApp for direct patient interactions.
+Web Integration: Chatbot embedded on the clinic’s official website for scheduling and inquiries.
+
