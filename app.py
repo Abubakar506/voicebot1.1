@@ -1,6 +1,5 @@
 import io
 import os
-import streamlit as st
 import pickle
 import random
 import string
@@ -17,6 +16,10 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
+import streamlit as st
+import subprocess
+import sys
+subprocess.run([f"{sys.executable}", "script.py"])
 # Google Calendar API scopes
 SCOPES = [
     'https://www.googleapis.com/auth/calendar',
