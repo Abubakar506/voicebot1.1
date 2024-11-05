@@ -16,6 +16,10 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
+import nltk
+
+# Download the required nltk data
+nltk.download('punkt')
 
 # Google Calendar API scopes
 SCOPES = [
