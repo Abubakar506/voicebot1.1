@@ -21,6 +21,9 @@ import streamlit as st
 import subprocess
 import sys
 subprocess.run([f"{sys.executable}", "script.py"])
+nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt')
+nltk.download('wordnet')
 # Google Calendar API scopes
 SCOPES = [
     'https://www.googleapis.com/auth/calendar',
