@@ -1,5 +1,6 @@
 import io
 import os
+import corpora
 import pickle
 import random
 import string
