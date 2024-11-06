@@ -20,6 +20,7 @@ from googleapiclient.discovery import build
 import streamlit as st
 import subprocess
 import sys
+import nltk
 subprocess.run([f"{sys.executable}", "script.py"])
 nltk.download('averaged_perceptron_tagger')
 nltk.download('punkt')
